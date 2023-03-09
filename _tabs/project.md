@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: project
 icon: fas fa-stream
 order: 1
 ---
